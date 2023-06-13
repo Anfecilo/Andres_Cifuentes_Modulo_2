@@ -1,0 +1,19 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Pygame specific
+pygame/
+pygame.fnt
+pygame.lnk
+
+# Exclude .venv directories
+.venv/
